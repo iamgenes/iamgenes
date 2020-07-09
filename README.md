@@ -1,8 +1,8 @@
-### Hi there :wave:
+## Hi there :wave:
 
 I am a Software Developer focused on Flutter, Python, Php and Javascript.
 
-## Links
+### Links
 - 📫 How to reach me: ...
 - [Twitter](https://twitter.com/iamgenes)
 - [Telegram](https://t.me/iamgenes)
