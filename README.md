@@ -13,7 +13,7 @@ I am a Software Developer focused on Flutter, Python, Php, Javascript and MQL4 &
 
 ### Links
 - 📫 How to reach me: ...
-- [Twitter](https://twitter.com/iamgenes)
+- [Twitter](https://twitter.com/i_am_genes)
 - [Telegram](https://t.me/iamgenes)
 - [Stackoverflow](https://stackoverflow.com/users/9517391/genes)
 - [Facebook](https://www.facebook.com/ItsGenes)
