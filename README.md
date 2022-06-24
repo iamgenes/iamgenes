@@ -6,6 +6,6 @@ Just another Tech enthusiast...
 - [Twitter](https://twitter.com/iamgenes_)
 - [Telegram](https://t.me/iamgenes)
 - [Stackoverflow](https://stackoverflow.com/users/8427381/genes)
-- [Facebook](https://www.facebook.com/thisisgenes/)
+- [Facebook](https://www.facebook.com/amgenes/)
 
 :heart:Cello:violin:	
